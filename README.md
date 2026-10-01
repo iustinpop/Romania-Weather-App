@@ -1,5 +1,7 @@
 ##Romania Weather App
 
+[Try the app]-(https://romania-weather-app.streamlit.app/)
+
 An app built in Python that displays current weather data for any city in Romania, using Open-Meteo's Geocoding and Weather APIs along with Streamlit.
 
 #Features
